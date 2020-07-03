@@ -2,7 +2,8 @@
 # Language: R
 # Input: CSV
 # Output: CSV
-# Tested with: PluMA 1.0, R 4.0
+# Tested with: PluMA 1.1, R 4.0.0
+# Dependency: pcalg_2.6.10
 
 PluMA plugin that runs the Linear Non-Gaussian Acyclic Model (LINGAM) for Causal Discovery (Shimizu et al, 2006)
 
